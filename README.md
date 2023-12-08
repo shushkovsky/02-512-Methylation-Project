@@ -2,4 +2,4 @@
 
 ### 02-512 Final Project
 
-Temp Link to Paper: https://www.overleaf.com/project/6192fc7ca207970b5e375f58
+Fall 2021
